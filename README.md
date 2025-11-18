@@ -1,71 +1,68 @@
-# 👋 Hi, I'm Illona Addae
-
-### National Service Personnel @ AmaliTech  
-Software Developer in Training | Passionate about building clean, efficient, and user-focused digital solutions.
+<h1 align="center">👋 Hi, I'm <strong>Illona Addae</strong></h1>
+<h3 align="center">National Service Personnel @ AmaliTech | Software Developer in Training</h3>
 
 ---
 
-## 🚀 About Me  
-I’m currently serving as a **National Service Personnel (NSP)** at **AmaliTech**, where I’m strengthening my skills through real-world software development tasks and collaborative engineering.
-
-My focus areas include:
-- 🌐 Frontend & backend development  
-- 🛠️ Writing clean, scalable, and maintainable code  
-- 🧩 Real-world problem solving  
-- 🤝 Teamwork & modern development workflows  
-- 🔄 Git, GitHub, and version control best practices  
-
-I’m committed to continuous improvement and delivering quality work throughout my journey here.
+## 🌟 About Me  
+I’m a National Service Personnel (NSP) at **AmaliTech**, currently growing my skills in real-world software engineering.  
+I value **clean code**, **continuous learning**, and building **practical, impactful solutions**.
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
-Here are the tools and technologies I’m actively working with:
 
-**Languages & Frameworks:**  
-- JavaScript  
-- HTML & CSS  
-- Python  
-- Node.js (learning)  
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-**Tools & Platforms:**  
-- Git & GitHub  
-- Visual Studio Code  
-- Windows + macOS workflow  
-- Postman (API testing)  
-- AmaliTech engineering tools & internal systems  
-
----
-
-## 📌 What You'll Find Here  
-This account is dedicated to my work at AmaliTech, including:
-
-- Company-related projects  
-- Assignments and exercises  
-- Learning tasks  
-- Internal and collaborative code repositories  
-- Documented workflows and progress  
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 📈 Current Goals  
-- Strengthen my full-stack development abilities  
-- Master efficient Git workflows in a professional environment  
-- Build impactful solutions that meet real user needs  
-- Grow into a confident, industry-ready software developer  
+## 📂 What This Account Is For  
+This GitHub profile contains work connected to my journey at **AmaliTech**, including:
+
+- 🔹 Company-related projects  
+- 🔹 Full-stack development training  
+- 🔹 Internal collaborative assignments  
+- 🔹 Version control & workflow practice  
+- 🔹 Documented learning progress  
 
 ---
 
-## 🌱 Personal Note  
-I believe in consistency, humility, learning boldly, and showing up every day with intention.  
-This account reflects that journey — step by step, line by line.
+## 🎯 Current Goals  
+- 🌱 Strengthen React, TypeScript & Angular proficiency  
+- 💡 Master collaborative Git/GitHub workflows  
+- ⚙️ Grow in both frontend and backend engineering  
+- 🚀 Build scalable, maintainable software solutions  
 
 ---
 
-### 📫 Contact  
-For work-related communication:  
-📩 **illona.addae@amalitech.org**
+## 💼 Work Contact  
+📩 **illona.addae@amalitech.org**  
+Available for internal collaboration and project-related discussions.
 
 ---
 
-### “Code is more than syntax — it's a mindset.”  
+## ✨ Personal Quote  
+> _“Consistency compounds. Every line of code you write today builds the developer you become tomorrow.”_
+
+---
+
+<p align="center">💙 Thanks for visiting my profile!</p>
+
