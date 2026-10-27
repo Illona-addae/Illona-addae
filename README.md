@@ -14,8 +14,8 @@
 
 I'm a **Software Engineer at [AmaliTech](https://www.amalitech.com)**. I build **production web applications**
 across the stack: typed React and Next.js frontends, the APIs and data behind them, and the tests that
-keep them shippable. Alongside that I'm going deeper into **Python, data engineering, machine learning and
-applied AI**.
+keep them shippable. Alongside that I'm going deeper into **Python, data engineering, data science, machine
+learning, applied AI and robotics**.
 
 > This account holds my AmaliTech work only.
 
@@ -63,15 +63,10 @@ applied AI**.
 
 ## 🔭 Currently Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-0F766E?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Applied%20AI-1E3A5F?style=for-the-badge&logo=huggingface&logoColor=white" alt="Applied AI" />
-</p>
+<img src="./assets/ai-journey.svg" alt="My AI and Machine Learning journey: a robot waves hello next to a neural network. The path: Python, Data Engineering, Data Science, Machine Learning, Applied AI, Robotics." width="100%" />
 
-Building on Python to work with data pipelines, machine learning models and AI features that fit into
-real products.
+Building on Python to work with data pipelines, data science, machine learning models and AI features that
+fit into real products, with robotics as the long-term goal.
 
 ## ⚙️ How I Work
 
@@ -84,7 +79,7 @@ real products.
 
 - 🚀 Deliver on client projects and build products that serve real users
 - 🌱 Deepen frontend architecture and performance work on large React codebases
-- 🧠 Grow from Python into data engineering, machine learning and applied AI
+- 🧠 Grow from Python into data engineering, data science, machine learning, applied AI and robotics
 - ⚙️ Take on more backend and API design alongside the frontend
 
 ## 💼 Work Contact
