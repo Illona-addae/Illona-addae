@@ -5,16 +5,16 @@
 <p>
   <a href="mailto:illona.addae@amalitech.com"><img src="https://img.shields.io/badge/illona.addae%40amalitech.com-0a1020?style=flat-square&logo=maildotru&logoColor=5eead4" alt="Work email" /></a>
   <img src="https://img.shields.io/badge/Accra%2C%20Ghana-0a1020?style=flat-square&logo=googlemaps&logoColor=5eead4" alt="Based in Accra, Ghana" />
-  <img src="https://img.shields.io/badge/Frontend%20%C2%B7%20TypeScript%20%C2%B7%20Applied%20AI-0a1020?style=flat-square&logo=typescript&logoColor=5eead4" alt="Focus: Frontend, TypeScript and Applied AI" />
+  <img src="https://img.shields.io/badge/Full--Stack%20%C2%B7%20TypeScript%20%C2%B7%20Applied%20AI-0a1020?style=flat-square&logo=typescript&logoColor=5eead4" alt="Focus: Full-Stack, TypeScript and Applied AI" />
 </p>
 
 </div>
 
 ## 👋 About Me
 
-I'm a **Software Engineer at [AmaliTech](https://www.amalitech.com)**. I build **production web applications**,
-mostly on the frontend: typed React apps, the API contracts behind them, and the tests that keep them
-shippable. Outside the frontend I'm going deeper into **Python, data engineering, machine learning and
+I'm a **Software Engineer at [AmaliTech](https://www.amalitech.com)**. I build **production web applications**
+across the stack: typed React and Next.js frontends, the APIs and data behind them, and the tests that
+keep them shippable. Alongside that I'm going deeper into **Python, data engineering, machine learning and
 applied AI**.
 
 > This account holds my AmaliTech work only.
